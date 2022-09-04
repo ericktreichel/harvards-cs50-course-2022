@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It's much faster in the best case than in the worst case. It's fast than other algorithms in the best case.
+
+sort2 uses: Merge Sort
+
+How do you know?: Worst and best case takes the same time to run, and it's faster than others with larger random inputs.
+
+sort3 uses: Selection Sort
+
+How do you know?: Worst and best case consumes the same time to sort, and it's not that fast with larger inputs.
